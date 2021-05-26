@@ -7,7 +7,9 @@ I was first interested in implementing the interaction between gems and aurora b
 
 ## What I've Implemented So Far
 
-I was able to find a free diamond model on [cgtrader](https://www.cgtrader.com/free-3d-models/scripts-plugins/modelling/low-poly-diamond-6899deeb-29ce-4d74-aa69-cc5d6418a390). From there I incorporated [tinyobjloader](https://github.com/tinyobjloader/tinyobjloader) into my code to work together with the parser used in previous assignments. I added a new command `obj pathToObjFile` for the test scenes. This allows me to utilize previous scenes and reuse transformation and material command formats. This also makes it easier to add multiple obj files to one scene. The images below are scenes the diamond model referenced earlier using different transformations inside the cornell box defined in previous assignments.
+I was able to find a free diamond model on [cgtrader](https://www.cgtrader.com/free-3d-models/scripts-plugins/modelling/low-poly-diamond-6899deeb-29ce-4d74-aa69-cc5d6418a390). From there I incorporated [tinyobjloader](https://github.com/tinyobjloader/tinyobjloader) into my code to work together with the parser used in previous assignments. I added a new command for the test scenes: 
+`obj pathToObjFile`
+This allows me to utilize previous scenes and reuse transformation and material command formats. This also makes it easier to add multiple obj files to one scene. The images below are scenes the diamond model referenced earlier using different transformations inside the cornell box defined in previous assignments.
 
 ### Images
 The images below use 128 samples per pixel and multiple important sampling. 
