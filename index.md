@@ -11,7 +11,7 @@ I was able to find a free diamond model on [cgtrader](https://www.cgtrader.com/f
 
 `obj pathToObjFile`
 
-This allows me to utilize previous scenes and reuse transformation and material command formats. This also makes it easier to add multiple obj files to one scene. The images below are scenes the diamond model referenced earlier using different transformations inside the cornell box defined in previous assignments.
+This allows me to utilize previous scenes and reuse transformation and material command formats. This also makes it easier to add multiple obj files to one scene. The images below are of the diamond model referenced earlier using different transformations inside the cornell box defined in previous assignments.
 
 ### Images
 The images below use 128 samples per pixel and multiple important sampling. 
