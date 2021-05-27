@@ -30,7 +30,7 @@ The images below use 128 samples per pixel and multiple important sampling.
 
 Image from [SIGGRAPH 04: Graphics gems revisited](https://dl.acm.org/doi/10.1145/1015706.1015708).
 
-My hope is to at least implement photon mapping and absorption mentioned above. Trying to implement extraordinarys may be challenging since the number of rays will increase exponentially. Futhermore I expect to incorporate more models to test different intereactions with refractions. 
+My hope is to at least implement photon mapping and absorption mentioned above. Trying to implement extraordinarys may be challenging since the number of rays will increase exponentially. Furthermore I expect to incorporate more models in the scenes to test different intereactions with refractions. 
 
 # Resources
  - [SIGGRAPH 04: Graphics gems revisited](https://dl.acm.org/doi/10.1145/1015706.1015708)
