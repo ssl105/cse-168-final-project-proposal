@@ -27,6 +27,7 @@ The images below use 128 samples per pixel and multiple important sampling.
 - Implement extraodinary rays for anisotropic gems such as sapphire. Anisotropic gems split refracted rays into two separate rays as shown in the image below:
 
 ![extraordinary](images/extraordinary.png)
+Image from [SIGGRAPH 04: Graphics gems revisited](https://dl.acm.org/doi/10.1145/1015706.1015708).
 
 # Resources
  - [SIGGRAPH 04: Graphics gems revisited](https://dl.acm.org/doi/10.1145/1015706.1015708)
