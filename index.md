@@ -24,11 +24,13 @@ The images below use 128 samples per pixel and multiple important sampling.
 
 - Implement refraction using [photon mapping](https://graphics.stanford.edu/courses/cs348b-00/course8.pdf) to allow for next event estimation.
 - Implement physically accurate absorption.
-- Implement extraodinary rays for anisotropic gems such as sapphire. Anisotropic gems split refracted rays into two separate rays as shown in the image below:
+- Implement extraordinary rays for anisotropic gems such as sapphire. Anisotropic gems split refracted rays into two separate rays as shown in the image below:
 
 ![extraordinary](images/extraordinary.png)
 
 Image from [SIGGRAPH 04: Graphics gems revisited](https://dl.acm.org/doi/10.1145/1015706.1015708).
+
+My hope is to at least implement photon mapping and absorption mentioned above. Trying to implement extraordinarys may be challenging since the number of rays will increase exponentially. Futhermore I expect to incorporate more models to test different intereactions with refractions. 
 
 # Resources
  - [SIGGRAPH 04: Graphics gems revisited](https://dl.acm.org/doi/10.1145/1015706.1015708)
